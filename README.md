@@ -7,3 +7,5 @@ The increasing role of social media in financial markets has encouraged retail t
 The recent draft is available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835376)
 
 ## Code
+1. The twitter_av.R file relates to Figure 1 that connects between BTD-related tweets and intra-day price movement of the SPY ETF.
+2. The second file main_results.R replicates all results from the draft. These include different specifications in terms of investment policy and testing periods.
